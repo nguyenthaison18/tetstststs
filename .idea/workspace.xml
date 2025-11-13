@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3aa4c3a-139b-42a7-b7c9-728ebe3e0199" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taoformcoban2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taoformcoban2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taoformdongian.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taogiaodienformdangky.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-02.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-03.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taobangdongian-01.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taobangdongian-01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taobangdongian-02.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taobangdongian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +40,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -73,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1763031500547</updated>
-      <workItem from="1763031501549" duration="6546000" />
+      <workItem from="1763031501549" duration="11583000" />
     </task>
     <servers />
   </component>

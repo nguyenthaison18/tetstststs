@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 6px;
+    text-align: center;
+}
+
+/* 3 ô Thu 3 – Thu 5 – Thu 7 */
+.thu-yellow {
+    background-color: rgb(255, 255, 0);
+}
+
+/* Các ô Tuần – Ngày bắt đầu – Ngày kết thúc – Môn học */
+.olive {
+    background-color: rgb(128, 128, 0);
+    color: white; /* để dễ đọc hơn */
+}
